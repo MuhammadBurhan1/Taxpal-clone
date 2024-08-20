@@ -13,7 +13,7 @@ TaxPal
 
 https://github.com/MuhammadBurhan1/Taxpal-clone
 
-## Deploymment```
+## ```Deployment
 https://taxpal-by-muhammadburhan.netlify.app/
 ```
 
