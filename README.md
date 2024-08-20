@@ -13,8 +13,8 @@ TaxPal
 
 https://github.com/MuhammadBurhan1/Taxpal-clone
 
-```
-
+## Deploymment```
+https://taxpal-by-muhammadburhan.netlify.app/
 ```
 
 2- Install npm dependencies
